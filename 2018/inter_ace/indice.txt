@@ -1,0 +1,11 @@
+Forensic:
+The RAID => You've recovered some disk images from a software-based RAID array. Dig for victory!
+
+Analytics:
+Snake => Analyse the attached list of network addresses. Visualise victory!
+
+Crypto:
+Close Encounters of the Polybius Kind => The music hides a coded message!
+
+Coding:
+Critters => Evolve or die!

@@ -1,0 +1,13 @@
+PA15: Your CSO is concerned that employees are misusing network resources by spending too much time using youtube-streaming application over the last 24 hours. The CSO wants you to find out: the category, subcategory and technology that your PANW firewall appliance uses to define the youtube-streaming application located in the Objects tab>Applications. Please submit the answer using the following format using all small caps: flag{}.
+
+PA16: Your CSO is concerned that employees are misusing network resources by spending too much time using youtube-streaming application over the last 24 hours. The CSO has tasked you to find out the number 1 and number 2 user of the youtube-streaming application using the PANW firewall appliance Web-UI ACC tab. Please submit your answer using the following format using all small caps: flag{}.
+
+PA17: Your CSO is concerned that employees are misusing network resources by spending too much time using youtube-streaming application over the last 30 days. The CSO has tasked you to find out the IP address of the source host that is consuming the most bandwidth using the youtube-streaming application via the PANW firewall appliance Web-UI ACC tab. Please submit your answer using the following format: flag{}.
+
+PA18: Your CSO is concerned that employees are misusing network resources by spending too much time using the youtube-streaming application over the last calendar day. The CSO has tasked you to find out the PANW security policy rule that is allowing the youtube-streaming application traffic, what applications are allowed by this security policy rule, and what security profile group is assigned to this security policy? Your CSO advises you to use the PANW appliance Web-UI ACC tab to find this information. Please submit your answer using the following format and using lower caps: flag{}.
+
+PA19: Your CSO wants to insure you are using the full power of the PANW firewall appliance to provide protection against known and unknown attacks. He has tasked you to find the names of the individual security profiles assigned to best-practice Security Profile Group on your PANW firewall appliance. Please submit your answer using the following format and using lower caps: flag{}.
+
+PA20: Your CSO has tasked you with finding out what rapidshare depends on what application to pass traffic on the PANW firewall. Please submit your answer using the following format and using lower caps: flag{}.
+
+PA21: You CSO would like to find out what are the two top “threat categories” that are showing critical on the blocked activity tab over the last 30 days. Please submit your answer in small caps using the following format: flag{}.
