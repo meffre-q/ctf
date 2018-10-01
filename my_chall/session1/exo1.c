@@ -1,4 +1,6 @@
 // gcc exo1.c -o exo1 -no-pie -fno-stack-protector -Wl,-z,relro,-z,now
+// gcc exo1.c -o exo1 -no-pie -fno-stack-protector -Wl,-z,relro,-z,now,-z,execstack
+// echo 0 | sudo tee /proc/sys/kernel/randomize_va_space
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
