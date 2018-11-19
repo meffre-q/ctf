@@ -1,0 +1,28 @@
+break main
+
+
+
+set exec-wrapper env LD_PRELOAD=./libc-2.28.so
+
+set exec-wrapper env LD_LIBRARY_PATH=$(pwd)/
+
+set exec-wrapper env LD_LIBRARY_PATH=$(pwd)/
+
+set exec-wrapper env
+
+set exec-wrapper env
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
